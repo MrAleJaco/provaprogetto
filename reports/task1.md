@@ -7,3 +7,6 @@ Practice the Git workflow for the final project.
 
 ## Progress
 I created my fork and cloned it onto my computer.
+
+git tag --list
+git show --stat task1
